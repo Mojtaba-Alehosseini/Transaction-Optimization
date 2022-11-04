@@ -186,7 +186,7 @@ void About()
 	    SetConsoleTextAttribute(h, 0x07);
         cout<<"\n\t\t\t";
         SetConsoleTextAttribute(h, 0xF0);
-        cout<<"Mojtaba Alehoseini";
+        cout<<"Mojtaba Alehosseini";
         SetConsoleTextAttribute(h, 0x07);
         cout<<"\n\t\t\t    ";
         SetConsoleTextAttribute(h, 0xF3);
