@@ -81,7 +81,6 @@ int Check_Key(int b)
         {
             a = int(c[i]);
             s += a;
-            cout<<"\n"<<a<<"\t"<<s;
         }
         if (s == 734)
         {
